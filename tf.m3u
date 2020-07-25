@@ -21,9 +21,9 @@ http://trkvz-m.ercdn.net/atvhd/atvhd.m3u8
 #EXTINF:0 group-title="ULUSAL",SHOW TV
 http://blutv-beta.akamaized.net/showhd/showtvhd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",FOX TV
-http://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/chunklist_b2628000_sltur.m3u8
+http://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8
-http://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/chunklist_b1596000_sltur.m3u8
+http://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:0 group-title="HABER",TRT HABER
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
